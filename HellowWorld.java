@@ -6,7 +6,12 @@ public class HellowWorld {
 	
 		System.out.println("Hellow World");
 
-		System.out.println("magma");
+		
+		for (int i=0;i<12;i++)
+		{
+			System.out.println("guyhkj");
+		}
+		
 	}
 
 }
